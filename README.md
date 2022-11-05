@@ -1,6 +1,6 @@
 # CATATAN ( NOTE )
-Script ori - DikaArdnt
-Recode - The Jo Bot
+Script ori - ElgaXyz
+Recode - The Jo Bot.
 
 Best Regards. Hisoka
 
